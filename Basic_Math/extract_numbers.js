@@ -1,3 +1,0 @@
-function extract_number() {
-    
-}
